@@ -1,0 +1,148 @@
+code {
+    white-space: pre;
+}
+
+.nowr {
+    white-space: nowrap;
+}
+
+td {
+    padding: 0;
+    border: 0;
+}
+
+table {
+    border: none;
+}
+
+img {
+    border: none;
+}
+
+form {
+    margin: 0px;
+    padding: 0px;
+}
+
+sup {
+    font-size: 66%;
+    line-height: .5;
+}
+
+li {
+    list-style: square outside;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    list-style: square outside;
+    padding: 0em 0em 0em 0em;
+    margin: 0em 0em 0em 1.5em;
+}
+
+.fakelink {
+    cursor: pointer;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zerosize {
+    font-size: 1px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100%;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+.ramka {
+    border-top: black 1px dashed;
+    border-bottom: black 1px dashed;
+    border-left: black 1px dashed;
+    border-right: black 1px dashed;
+    margin-top: 4mm;
+    margin-bottom: 12mm;
+}
+
+.kassir {
+    font-weight: bold;
+    font-size: 10pt;
+    font-family: "Times New Roman", serif;
+    padding: 7mm 0 7mm 0;
+    text-align: center;
+}
+
+.cell {
+    font-family: Arial, sans-serif;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+    border-top: black 1px solid;
+    font-weight: bold;
+    font-size: 8pt;
+    line-height: 1.1;
+    height: 4mm;
+    vertical-align: bottom;
+}
+
+.cells {
+    border-right: black 1px solid;
+}
+
+.subscript {
+    font-size: 6pt;
+    font-family: "Times New Roman", serif;
+    line-height: 1;
+    vertical-align: top;
+    text-align: center;
+}
+
+.string,.dstring {
+    font-weight: bold;
+    font-size: 8pt;
+    font-family: Arial, sans-serif;
+    border-bottom: black 1px solid;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.dstring {
+    font-size: 9pt;
+    letter-spacing: 1pt;
+}
+
+.floor {
+    vertical-align: bottom;
+    padding-top: 0.5mm;
+}
+
+.stext {
+    font-size: 8.5pt;
+    font-family: "Times New Roman", serif;
+    vertical-align: bottom;
+}
+
+.stext7 {
+    font-size: 7.5pt;
+    font-family: "Times New Roman", serif;
+    vertical-align: bottom;
+}
