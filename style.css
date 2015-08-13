@@ -75,13 +75,11 @@ body {
     margin: 0px;
 }
 
-.ramka {
-    border-top: black 1px dashed;
-    border-bottom: black 1px dashed;
-    border-left: black 1px dashed;
-    border-right: black 1px dashed;
-    margin-top: 4mm;
-    margin-bottom: 12mm;
+.table-bordered {
+    border: black 1px dashed;
+    margin-top: 4mm auto 12mm;
+    width: 180mm;
+    height: 145mm;
 }
 
 .kassir {
