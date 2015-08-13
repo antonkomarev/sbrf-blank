@@ -1,2 +1,2 @@
-sbrf_blank
-==========
+Blank for Sberbank
+==================
